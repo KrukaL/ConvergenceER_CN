@@ -1,0 +1,4 @@
+> 63063:"Usable on swords and thrusting weapons (spears, polearms, and colossal weapons excepted)"
+= 63063:""
+> 241355:"Dragonkin Dungeon"
+= 241355:""

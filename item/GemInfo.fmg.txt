@@ -1,0 +1,4 @@
+> 80300:"Grants affinities and skills to an armament"
+= 80300:""
+> 80400:"Grants affinities and skills to an armament"
+= 80400:""

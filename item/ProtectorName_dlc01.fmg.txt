@@ -1,2 +1,6 @@
+> 5252200:"Divine Beast Gauntlets"
+= 5252200:""
+> 5252300:"Divine Beast Greaves"
+= 5252300:""
 > 5340000:"Midra's Gaze"
 = 5340000:""

@@ -66,6 +66,8 @@
 = 4040:""
 > 4120:"Blasphemer's Crest"
 = 4120:""
+> 4130:"Sigil of Freedom"
+= 4130:""
 < 5010:"Cerulean Seed Talisman"
 > 5010:"Blessed Blue Dew Talisman"
 - 5010:"蓝种子护符"

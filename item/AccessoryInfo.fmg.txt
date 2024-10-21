@@ -166,6 +166,8 @@
 = 4050:""
 > 4120:"Grants immunity to environmental lava damage."
 = 4120:""
+> 4130:"Negates slowing effects and increases movement speed"
+= 4130:""
 < 5010:"Boosts FP restoration from Flask of Cerulean Tears"
 > 5010:"Grants 1 FP recovery per second."
 - 5010:"能提升蓝露滴圣杯瓶的恢复量"

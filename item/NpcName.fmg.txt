@@ -4,6 +4,8 @@
 = 121850:""
 > 121860:"Training Grounds Statue"
 = 121860:""
+> 121870:"Forgotten Warrior"
+= 121870:""
 > 138650:"Stormcaller Curtis"
 = 138650:""
 > 138660:"Necromancer Domo"
